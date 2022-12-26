@@ -1,3 +1,7 @@
+<img src="portefolioGIFlogo.gif"/>
+<hr />
+
+
 # Hello World ! 
 - 👋 Hi, I’m @mandresyandri
 - 👀 I’m interested in `data sciences` `digital communication` and `Web development`
