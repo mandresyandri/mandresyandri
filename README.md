@@ -58,6 +58,9 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch"  height="40"/>
   </a>&nbsp;
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://keras.io/img/logo.png" alt="keras"  height="40"/>
+  </a>&nbsp;
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface"height="40"/>
   </a><br/>
