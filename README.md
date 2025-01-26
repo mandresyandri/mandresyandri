@@ -16,7 +16,7 @@
 - [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
 
-- [**Potentiel s(c)olaire (ongoing)**](https://dataforgood.fr/projects/potentielscolaire): Évaluer et cartographier le potentiel photovoltaïque des établissements scolaires pour accélérer la transition énergétique.  
+- [**Potentiel s(c)olaire (ongoing)**](https://dataforgood.fr/projects/potentielscolaire): Assessing and mapping the photovoltaic potential of schools to accelerate the energy transition.
 **Technologies**: upcoming...
 
   
