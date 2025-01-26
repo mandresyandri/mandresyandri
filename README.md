@@ -1,4 +1,4 @@
-# `<Hello World />` <br/> 👋 I'm Mandresy ANDRI 
+# `<Hello World />` | 👋 I'm Mandresy ANDRI 
 ## (Geo)Data Scientist | based in Greater Paris, France 🇫🇷
 
 - 🎓 Master degree in Data Science @ Gustave Eiffel University (co-accredited with ESIEE an engineering school)
