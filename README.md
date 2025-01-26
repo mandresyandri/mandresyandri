@@ -3,7 +3,7 @@
 ## (Geo)Data Scientist | based in Paris, France 🇫🇷
 
 - 🎓 Master degree in Data Science @ Gustave Eiffel University (co-accredited with ESIEE)
-- 💼 Working as Data Scientist on an GIS departement @ public sector
+- 💼 Working as Data Scientist in a GIS departement @ public sector
 - 📜 Certified Machine learning in Python with scikit-learn by INRIA (MOOC)
 
 ## Technical Highlights
