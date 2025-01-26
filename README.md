@@ -22,7 +22,7 @@
 
   
 ### Side projects 
-- [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.  
+- [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
 **Technologies**: Python, GeoPandas, Matplotlib, Shapely, Contextily
  
 
