@@ -1,6 +1,6 @@
 # `<Hello World />` 👋 I'm Mandresy ANDRI 
 
-## (Geo)Data Scientist | based in Paris, France 🇫🇷
+## (Geo)Data Scientist | based in Greater Paris, France 🇫🇷
 
 - 🎓 Master degree in Data Science @ Gustave Eiffel University (co-accredited with ESIEE an engineering school)
 - 💼 Working as Data Scientist in a GIS departement @ public sector
