@@ -12,7 +12,7 @@
 - [**Digital Methods Winter School and Data Sprint 2025**](https://digitalmethods.net/) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
 **Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
 
-### volunteering @ Data4Good
+### Volunteering @ Data4Good
 - [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
 
