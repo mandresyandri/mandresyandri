@@ -7,11 +7,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=graywhite&count_private=true&hide_border=true" alt="Github Stats"/>
 
 ## Technical Highlights
-### Group challenges 
+### 🏆 Group challenges 
 - [**Digital Methods Winter School and Data Sprint 2025**](https://digitalmethods.net/) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
 **Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
 
-### Volunteering @ Data4Good
+### 🤝 Volunteering @ Data4Good
 - [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
 
@@ -19,7 +19,7 @@
 **Technologies**: upcoming...
 
   
-### Side projects 
+### 🧑‍💻 Side projects 
 - [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
 **Technologies**: Python, GeoPandas, Matplotlib, Shapely, Contextily
  
