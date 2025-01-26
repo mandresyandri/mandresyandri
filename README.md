@@ -1,4 +1,4 @@
-# `<Hello World />` 👋 I'm Mandresy ANDRI 
+# `<Hello World />` <br/> 👋 I'm Mandresy ANDRI 
 
 ## (Geo)Data Scientist | based in Greater Paris, France 🇫🇷
 
