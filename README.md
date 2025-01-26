@@ -48,18 +48,18 @@
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png?20220718173326" alt="plotly" height="40"/>
-  </a>
+  </a><br/>
   
   <!-- AI Stack -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://datascientest.com/wp-content/uploads/2021/09/illu_pytorch-49.png" alt="pytorch"  height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch"  height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface"height="40"/>
-  </a>
+  </a><br/>
 
   <!-- Geo Stack -->
   <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@
   </a>
   <a href="https://www.arcgis.com/index.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" height="40"/>
-  </a>
+  </a><br/>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
@@ -81,7 +81,7 @@
   </a>
   <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer">
     <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" height="40"/>
-  </a>
+  </a><br/>
 
   <!-- Computer sciences  -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -95,7 +95,7 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/langfr-2560px-Amazon_Web_Services_Logo.svg.png" alt="cloud" height="40"/>
-  </a>
+  </a><br/>
 
   <!-- Web stack -->
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -110,6 +110,6 @@
 
 </p>
 
-## Few statistics
+## Github statistics
 ![](https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=algolia&count_private=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandresyandri&theme=algolia&hide_langs_below=8&hide_border=true)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandresyandri&theme=algolia&hide_langs_below=8&hide_border=true)-->
