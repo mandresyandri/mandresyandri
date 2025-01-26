@@ -26,7 +26,7 @@
  
 
 ## Let's Connect!
-<a href="https://linkedin.com/in/mandresyandri" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>
+<a href="https://www.linkedin.com/in/mandresy-andri/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>
 <a href="mandresy.andriantsoanavalona@gmail.com"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="35"/></a>
 
 📧 Feel free to get in touch ! 🚀
@@ -55,7 +55,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/logo.svg" alt="pytorch"  height="40"/>
+    <img src="https://datascientest.com/wp-content/uploads/2021/09/illu_pytorch-49.png" alt="pytorch"  height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface"height="40"/>
@@ -68,7 +68,7 @@
   <a href="https://qgis.org/" target="_blank" rel="noreferrer">
     <img src="https://qgis.github.io/qgis-uni-navigation/logo.svg" alt="qgis" height="40"/>
   </a>
-  <a href="https://qgis.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.arcgis.com/index.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" height="40"/>
   </a>
 
