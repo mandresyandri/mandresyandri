@@ -29,10 +29,11 @@
 <a href="https://www.linkedin.com/in/mandresy-andri/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>
 <a href="mandresy.andriantsoanavalona@gmail.com"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="35"/></a>
 
-📧 Feel free to get in touch ! 🚀
+📧 Hey guys, feel free to contact me on LinkedIn, even if you just want to chat. 😉
 
 ## Languages and Tools
 <p align="left">
+  <h3>Python data tools</h3>
   <!-- Python Stack  -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
@@ -50,7 +51,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png?20220718173326" alt="plotly" height="40"/>
   </a><br/>
   
-  <!-- AI Stack -->
+  <!-- AI Stack --> 
+  ### AI stack
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/>
   </a>
@@ -62,6 +64,7 @@
   </a><br/>
 
   <!-- Geo Stack -->
+  ### Geo stack
   <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="geopandas" height="40"/>
   </a>
@@ -73,6 +76,7 @@
   </a><br/>
 
   <!-- Databases -->
+  ### Databases
   <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-240px-MySQL.svg.png" alt="sql" height="40"/>
   </a>
@@ -84,6 +88,7 @@
   </a><br/>
 
   <!-- Computer sciences  -->
+  ### Others
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/>
   </a>
