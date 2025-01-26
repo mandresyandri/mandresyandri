@@ -4,11 +4,9 @@
 - 🎓 Master degree in Data Science @ Gustave Eiffel University (co-accredited with ESIEE an engineering school)
 - 💼 Working as Data Scientist in a GIS departement @ public sector
 - 📜 Certified Machine learning in Python with scikit-learn by INRIA (MOOC)
-
 <img src="https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=graywhite&count_private=true&hide_border=true" alt="Github Stats"/>
 
 ## Technical Highlights
-
 ### Group challenges 
 - [**Digital Methods Winter School and Data Sprint 2025**](https://digitalmethods.net/) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
 **Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
