@@ -115,6 +115,5 @@
 
 </p>
 
-## Github statistics
-![](https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=default&count_private=true&hide_border=true)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandresyandri&theme=algolia&hide_langs_below=8&hide_border=true)-->
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=graywhite&count_private=true&hide_border=true" alt="Github Stats"/>
