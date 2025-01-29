@@ -15,9 +15,6 @@
 - [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
 
-- [**Potentiel s(c)olaire (ongoing)**](https://dataforgood.fr/projects/potentielscolaire): Assessing and mapping the photovoltaic potential of schools to accelerate the energy transition.  
-**Technologies**: upcoming...
-
   
 ### 🧑‍💻 Side projects 
 - [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
