@@ -14,8 +14,8 @@
 ### 🤝 Volunteering @ Data4Good
 - [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
-- [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.
-**Technologies**: PostgreSQL, SQLAlchemy, Geopandas, GDAL, Shapely, Rasterio, Docker
+- [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
+**Technologies**: PostgreSQL, SQLAlchemy, Geopandas, GDAL, Shapely, Rasterio, Docker, AWS S3 (Powered by Scaleway), Apache Airflow
 
   
 ### 🧑‍💻 Side projects 
