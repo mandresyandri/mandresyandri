@@ -8,7 +8,7 @@
 
 ## Technical Highlights
 ### 🏆 Group challenges 
-- [**Digital Methods Winter School and Data Sprint 2025**](https://drive.google.com/file/d/1x1EXht0T-tunUvJ5YsT5yvFLz5NeOCUu/view?usp=sharing) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
+- [**Digital Methods Winter School and Data Sprint 2025**](https://www.digitalmethods.net/Dmi/WinterSchool2025TelegramIrishElections) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
 **Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
 
 ### 🤝 Volunteering @ Data4Good
