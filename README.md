@@ -47,6 +47,9 @@
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png?20220718173326" alt="plotly" height="40"/>
+  </a>&nbsp;
+  <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://innowise.com/wp-content/uploads/2022/08/Pic-3-1.png" alt="Airflow" height="40"/>
   </a><br/>
   
   <!-- AI Stack --> 
