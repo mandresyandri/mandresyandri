@@ -10,13 +10,6 @@
 ### 🏆 Group challenges 
 - [**Digital Methods Winter School and Data Sprint 2025**](https://www.digitalmethods.net/Dmi/WinterSchool2025TelegramIrishElections) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
 **Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
-
-### 🤝 Volunteering @ Data4Good
-- [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
-**Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
-- [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
-**Technologies**: Geopandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow
-
   
 ### 🧑‍💻 Side projects 
 - [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
