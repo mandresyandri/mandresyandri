@@ -9,7 +9,7 @@
 ## Technical Highlights
 ### 🏆 Group challenges 
 - [**Digital Methods Winter School and Data Sprint 2025**](https://www.digitalmethods.net/Dmi/WinterSchool2025TelegramIrishElections) : Analysis of Irish far-right hate and conspiracy narratives on Telegram, using text mining and LLMs.  
-**Technologies**: Pandas, Pytorch, Transforsmers, HuggingFace, AWS SageMaker
+**Technologies**: Pandas, Pytorch, Transformers, HuggingFace, AWS SageMaker
   
 ### 🧑‍💻 Side projects 
 - [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
