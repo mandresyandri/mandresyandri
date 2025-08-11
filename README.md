@@ -14,7 +14,12 @@
 ### 🧑‍💻 Side projects 
 - [**The origin of our christmas three**](https://github.com/mandresyandri/defi_carto_sapin_2024): A fun Christmas 2024 challenge exploring GIS and GeoData science with Python.   
 **Technologies**: Python, GeoPandas, Matplotlib, Shapely, Contextily
- 
+
+ ### 🤝 Volunteering @ Data4Good
+- [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
+**Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
+- [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
+**Technologies**: Geopandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/mandresy-andri/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>
