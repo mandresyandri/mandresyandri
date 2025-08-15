@@ -20,7 +20,7 @@
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
 - [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
 **Technologies**: Geopandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow
-- [**Hors Saison FUB ON GOING**](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis): Geostatistical analyses linking cyclist feedback to state-funded projects, accident hotspots, train stations, and public facilities to inform infrastructure priorities.
+- [**Hors Saison FUB ON GOING**](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis): Geostatistical analyses linking cyclist feedback to state-funded projects, accident hotspots, train stations, and public facilities to inform infrastructure priorities.  
 **Technologies**: Geopandas, GDAL, AWS S3, scikit-lean, scipy
 
 ## Let's Connect!
