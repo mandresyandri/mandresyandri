@@ -21,7 +21,7 @@
 - [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
 **Technologies**: Geopandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow
 - [**Hors Saison FUB ON GOING**](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis): Geostatistical analyses linking cyclist feedback to state-funded projects, accident hotspots, train stations, and public facilities to inform infrastructure priorities.  
-**Technologies**: Geopandas, GDAL, AWS S3, scikit-lean, scipy
+**Technologies**: Geopandas, GDAL, AWS S3, scikit-learn, scipy
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/mandresy-andri/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>
