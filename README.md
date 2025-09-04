@@ -16,9 +16,9 @@
 **Technologies**: Python, GeoPandas, Matplotlib, Shapely, Contextily
 
  ### 🤝 Team projects
-- [**Lichens Go**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
+- [**Lichens Go**](https://saisie.lichensgo.eu/resultsLG): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
 **Technologies**: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker
-- [**Brigade Coupe Rase ON GOING**](https://github.com/dataforgoodfr/13_brigade_coupes_rases): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
+- [**Brigade Coupe Rase**](https://app-ab2f14d8-10a9-454d-9a7d-92ab22a54110.cleverapps.io/): A interactive visualization interface to identify illegal clear-cuts and generate actionable statistics.  
 **Technologies**: Geopandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow
 - [**Hors Saison FUB ON GOING**](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis): Geostatistical analyses linking cyclist feedback to state-funded projects, accident hotspots, train stations, and public facilities to inform infrastructure priorities.  
 **Technologies**: Geopandas, GDAL, AWS S3, scikit-learn, scipy
