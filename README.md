@@ -4,7 +4,6 @@
 - 🎓 Master degree in Data Science @ Gustave Eiffel University (co-accredited with ESIEE an engineering school)
 - 💼 Working as Data scientist in a GIS departement @ public sector
 - 📜 Certified Machine learning in Python with scikit-learn by INRIA (MOOC) 
-<img src="https://github-readme-stats.vercel.app/api?username=mandresyandri&show_icons=true&theme=graywhite&count_private=true&hide_border=true" alt="Github Stats"/>
 
 ## Technical Highlights
 ### 🏆 Group challenges 
