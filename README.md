@@ -29,14 +29,17 @@ Currently exploring how **LLMs** can interact with real-world geographical data.
   *Stack: Python, GeoPandas, Matplotlib, Shapely, Contextily*
 
 ### 🤝 Team Projects
-- **[Lichens Go](https://saisie.lichensgo.eu/resultsLG)** A dashboard tracking urban pollution based on lichen observations. Work done for the non-profit organization **[PartiCitaE](https://particitae.sorbonne-universite.fr/)**
-  *Stack: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker*
+- **[Lichens Go](https://saisie.lichensgo.eu/resultsLG)** A dashboard tracking urban pollution based on lichen observations. <br/>
+    Work done for the non-profit organization **[PartiCitaE](https://particitae.sorbonne-universite.fr/)**<br/>
+   *Stack: PostgreSQL, SQLAlchemy, Pandas, Plotly, Dash, Docker*
   
-- **[Brigade Coupe Rase](https://app-ab2f14d8-10a9-454d-9a7d-92ab22a54110.cleverapps.io/)** Interactive interface to identify illegal clear-cuts and generate actionable statistics. Work done for the non-profit organization **[Canopé](https://www.canopee.ong/)**
+- **[Brigade Coupe Rase](https://app-ab2f14d8-10a9-454d-9a7d-92ab22a54110.cleverapps.io/)** Interactive interface to identify illegal clear-cuts and generate actionable statistics. <br/>
+    Work done for the non-profit organization **[Canopé](https://www.canopee.ong/)**<br/>
   *Stack: GeoPandas, GDAL, Rasterio, Docker, AWS S3, Apache Airflow*
   
-- **[Hors Saison FUB](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis)** Geostatistical analyses linking cyclist feedback to infrastructure priorities. Work done for the non-profit organization **[FUB](https://www.fub.fr/ )** 
-  *Stack: GeoPandas, GDAL, AWS S3, scikit-learn, scipy*
+- **[Hors Saison FUB](https://github.com/dataforgoodfr/offseason_fub/tree/main/code/geodata-analysis)** Geostatistical analyses linking cyclist feedback to infrastructure priorities.<br/>
+    Work done for the non-profit organization **[FUB](https://www.fub.fr/ )** <br/>
+    *Stack: GeoPandas, GDAL, AWS S3, scikit-learn, scipy*
 
 ---
 
